@@ -6,7 +6,7 @@ Requirements
 -Python 3.11 or higher
 
 Setup clone this repo:
-git clone [https://github](https://github.com/NAU-OSS/Time_Trainer.git)
+git clone https://github(https://github.com/NAU-OSS/Time_Trainer.git)
 cd Time_Trainer
 
 To install dependencies
